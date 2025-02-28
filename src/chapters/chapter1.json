@@ -1,0 +1,142 @@
+[
+  {
+    "lessonIndex": 0,
+    "type": "unity",
+    "title": "Trafikskyltar",
+    "description": "Lär dig identifiera och förstå olika trafikskyltar",
+    "scene": "Lektion1",
+    "objectives": 6
+  },{
+    "lessonIndex": 1,
+    "type": "quiz",
+    "title": "Trafiksignaler",
+    "description": "Förstå innebörden av olika trafiksignaler",
+    "scene": "Stadsmiljö",
+    "objectives": 6,
+    "questionIds": [
+      0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 
+      10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 
+      20, 21, 22, 23, 24, 25, 26
+    ]
+  },
+  {
+    "lessonIndex": 2,
+    "type": "quiz",
+    "title": "Hastighetsbegränsningar",
+    "description": "Lär dig om olika hastighetsbegränsningar och när de gäller",
+    "scene": "Blandad miljö",
+    "questionIds": [
+      27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 
+      37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 
+      47, 48, 49, 50, 51, 52, 53
+    ]
+  },
+  {
+    "lessonIndex": 3,
+    "type": "quiz",
+    "title": "Väjningsplikt",
+    "description": "Förstå reglerna kring väjningsplikt",
+    "scene": "Korsningar",
+    "questionIds": [
+      54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 
+      64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 
+      74, 75, 76, 77, 78, 79, 80
+    ]
+  },
+  {
+    "lessonIndex": 4,
+    "type": "quiz",
+    "title": "Stopplikt",
+    "description": "Lär dig om stopplikt och hur man följer den korrekt",
+    "scene": "Korsningar",
+    "questionIds": [
+      81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 
+      91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 
+      101, 102, 103, 104, 105, 106, 107
+    ]
+  },
+  {
+    "lessonIndex": 5,
+    "type": "quiz",
+    "title": "Körfält och filbyten",
+    "description": "Förstå regler för körfält och säkra filbyten",
+    "scene": "Flerfältsväg",
+    "questionIds": [
+      108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 
+      118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 
+      128, 129, 130, 131, 132, 133, 134
+    ]
+  },
+  {
+    "lessonIndex": 6,
+    "type": "quiz",
+    "title": "Parkering",
+    "description": "Lär dig regler för parkering i olika situationer",
+    "scene": "Stadsmiljö",
+    "questionIds": [
+      135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 
+      145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 
+      155, 156, 157, 158, 159
+    ]
+  },
+  {
+    "lessonIndex": 7,
+    "type": "text",
+    "title": "Grundläggande Körtekniker",
+    "description": "En detaljerad guide för nya förare",
+    "content": [
+      {
+        "type": "title",
+        "text": "Välkommen till Grundläggande Körtekniker"
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "caption": "Att köra är en frihet"
+      },
+      {
+        "type": "paragraph",
+        "text": "Att lära sig köra bil är en spännande tid i ditt liv. I denna lektion kommer vi att gå igenom de grundläggande teknikerna du behöver för att bli en säker förare."
+      },
+      {
+        "type": "subtitle",
+        "text": "Förberedelse innan du kör"
+      },
+      {
+        "type": "paragraph",
+        "text": "Innan du startar bilen är det viktigt att göra vissa kontroller:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Justera sätet så att du når pedalerna bekvämt.",
+          "Justera backspeglar och sidospeglar för optimal sikt.",
+          "Kontrollera att alla passagerare har säkerhetsbälte på."
+        ]
+      },
+      {
+        "type": "card",
+        "title": "Visste du?",
+        "text": "Att ha rätt körställning kan minska risken för skador vid en olycka."
+      },
+      {
+        "type": "subtitle",
+        "text": "Starta fordonet"
+      },
+      {
+        "type": "paragraph",
+        "text": "När du är redo att starta, se till att bilen är i neutral (manuell) eller park (automatisk), tryck ner kopplingen (manuell) eller bromsen (automatisk) och vrid nyckeln eller tryck på startknappen."
+      },
+      {
+        "type": "image",
+        "url": "https://images.pexels.com/photos/248747/pexels-photo-248747.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "caption": "Starta motorn korrekt"
+      },
+      {
+        "type": "quote",
+        "text": "En resa på tusen mil börjar med ett enda steg.",
+        "author": "Lao Tzu"
+      }
+    ]
+  }
+]

@@ -1,0 +1,125 @@
+{
+    "categories": {
+        "Fordonskännedom": [
+            {
+                "id": 1,
+                "question": "Du planerar att köra din personbil med ett bromsat släp som väger 700 kg. Vilken är den högsta tillåtna hastigheten?",
+                "alternatives": [
+                    "90 km/h",
+                    "80 km/h",
+                    "100 km/h",
+                    "Det beror på vägtyp"
+                ],
+                "correct_index": 1,
+                "explanation": "Bromsade släpvagnar får köras i max 80 km/h enligt svenska trafikregler."
+            },
+            {
+                "id": 2,
+                "question": "Vad är den högsta hastighet som ett fordon med LGF-skylt får köra?",
+                "alternatives": [
+                    "30 km/h",
+                    "45 km/h",
+                    "50 km/h"
+                ],
+                "correct_index": 1,
+                "explanation": "LGF (Långsamtgående fordon) omfattar t.ex. traktorer och vissa mopedbilar. Dessa får inte överstiga 45 km/h."
+            },
+            {
+                "id": 3,
+                "question": "Vilket fordon är det tillåtet att köra med ett B-körkort?",
+                "alternatives": [
+                    "Tung motorcykel",
+                    "Lätt lastbil",
+                    "Buss",
+                    "Traktor B"
+                ],
+                "correct_index": 1,
+                "explanation": "B-körkort ger rätt att köra personbil och lätt lastbil med en totalvikt på max 3,5 ton."
+            },
+            {
+                "id": 4,
+                "question": "Om du har ett B-körkort, får du då köra en trehjulig motorcykel?",
+                "alternatives": [
+                    "Nej, aldrig",
+                    "Ja, men bara om jag haft körkort i minst två år",
+                    "Endast om den är registrerad som personbil",
+                    "Ja, men motoreffekten får inte överstiga 15 kW om du är under 21 år"
+                ],
+                "correct_index": 3,
+                "explanation": "Med B-körkort får du köra trehjulig motorcykel, men om du är under 21 år gäller en effektgräns på 15 kW."
+            },
+            {
+                "id": 5,
+                "question": "Är det tillåtet att transportera 9 personer i en personbil?",
+                "alternatives": [
+                    "Ja, om bilen är registrerad för det",
+                    "Nej, maxantalet är 5 personer",
+                    "Ja, men endast vid korta sträckor",
+                    "Nej, endast minibussar får ha 9 personer"
+                ],
+                "correct_index": 0,
+                "explanation": "En personbil får ha upp till 8 passagerare plus förare, om den är registrerad för det och alla har säkerhetsbälten."
+            },
+            {
+                "id": 6,
+                "question": "Vad betyder termen 'konstruktiv högsta hastighet' för ett fordon?",
+                "alternatives": [
+                    "Högsta hastigheten som anges i registreringsbeviset",
+                    "Den hastighet bilen är byggd för att klara av",
+                    "Den rekommenderade maxhastigheten av tillverkaren",
+                    "Den högsta hastigheten på fordonets hastighetsmätare"
+                ],
+                "correct_index": 1,
+                "explanation": "Den konstruktiva högsta hastigheten är den maximala hastighet som fordonet är byggt för att klara."
+            },
+            {
+                "id": 7,
+                "question": "Vilket av följande alternativ är inte ett exempel på ett efterfordon?",
+                "alternatives": [
+                    "Husvagn",
+                    "Skylift",
+                    "Tryckluftskompressor",
+                    "Kioskvagn"
+                ],
+                "correct_index": 0,
+                "explanation": "Ett efterfordon används inte för transport av last, till skillnad från en släpvagn som en husvagn."
+            },
+            {
+                "id": 8,
+                "question": "Hur många personer får maximalt färdas i en personbil?",
+                "alternatives": [
+                    "4 personer",
+                    "5 personer",
+                    "8 passagerare plus förare",
+                    "7 personer inklusive förare"
+                ],
+                "correct_index": 2,
+                "explanation": "En personbil får ha upp till 8 passagerare plus förare om bilen är registrerad för det."
+            },
+            {
+                "id": 9,
+                "question": "Vilken är den maximala hastigheten för en moped klass 1 (EU-moped)?",
+                "alternatives": [
+                    "40 km/h",
+                    "45 km/h",
+                    "50 km/h",
+                    "35 km/h"
+                ],
+                "correct_index": 1,
+                "explanation": "En EU-moped (klass 1) får köra i max 45 km/h enligt svensk lag."
+            },
+            {
+                "id": 10,
+                "question": "Kan du köra en EU-moped (moped klass 1) om du har B-körkort?",
+                "alternatives": [
+                    "Nej, endast om du har AM-körkort",
+                    "Ja, B-körkort inkluderar AM-behörighet",
+                    "Nej, du behöver ett särskilt förarbevis",
+                    "Ja, men endast om körkortet är utfärdat innan 1996"
+                ],
+                "correct_index": 1,
+                "explanation": "B-körkort ger automatiskt rätt att köra en EU-moped eftersom det inkluderar AM-körkort."
+            }
+        ]
+    }
+}
