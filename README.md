@@ -39,8 +39,8 @@ Ensure you have the following installed:
 ### 1. Clone the Repository
 Clone the repository and navigate into the project folder:
   ```bash
-  git clone <repository-url>
-  cd <repository-directory>
+  git clone [<repository-url>](https://github.com/carlandren2002/react-unity-project.git)
+  cd [<repository-directory>](https://github.com/carlandren2002/react-unity-project.git)
   ```
 ### 2. Install Dependencies
 
